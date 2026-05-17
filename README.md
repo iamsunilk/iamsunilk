@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-study-nildana&label=Profile%20views&color=0e75b6&style=flat" alt="jay-study-nildana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jay-study-nildana" alt="jay-study-nildana" /></a> </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github" />
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsunilk" alt="iamsunilk" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
