@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunilk" /> </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamsunilk&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamsunilk&theme=tokyonight&row=2&column=4" />
 </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
