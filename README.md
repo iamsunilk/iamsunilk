@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunilk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsunilk" alt="iamsunilk" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="iamsunilk" />
+</p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
