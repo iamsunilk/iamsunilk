@@ -7,6 +7,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=iamsunilk&theme=tokyonight&row=2&column=4" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Repositories-10-blue?style=for-the-badge&logo=github" />
+</p>
+
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 📫 How to reach me **sunilkrishnamoorthy.dev@gmail.com**
