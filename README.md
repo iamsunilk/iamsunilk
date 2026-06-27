@@ -28,7 +28,7 @@
       <br />
       <sub>Credential ID: 6A04DCE52595FA4A</sub>
       <br />
-      <a href="https://drive.google.com/file/d/1O5GmhxgFky5K7wlLh0eqn6msyCebsrSI/view?usp=sharing">✅ Verify Certificate</a>
+      <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a04dce52595fa4a">✅ Verify Certificate</a>
     </td>
   </tr>
 </table>
