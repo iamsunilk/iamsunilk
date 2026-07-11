@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sunil K</h1>
 <h3 align="center">A .NET FullStack Developer | 2x Microsoft Certified | Karat-Cleared Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunilk" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunilk" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=iamsunilk"></a> </p>
-
-
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamsunilk" alt="trophy" />
+  </a>
+</p>
 
 - 🌱 I'm currently learning **Data Structures, Algorithms & Cloud Technologies**
 - 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Credential ID: `6A04DCE52595FA4A`
@@ -20,7 +23,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900 Badge" width="120" height="120"/>
       <br />
       <b>Microsoft Certified: Azure Fundamentals</b>
@@ -31,9 +34,7 @@
       <br />
       <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a04dce52595fa4a">✅ Verify Certificate</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI-901 Badge" width="120" height="120"/>
       <br />
       <b>Microsoft Certified: Azure AI Fundamentals</b>
@@ -49,23 +50,44 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/sunil-krishna96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-krishna96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamsunilk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamsunilk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunil-krishna96" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-krishna96" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/iamsunilk" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamsunilk" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsunilk&" alt="iamsunilk" /></p>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsunilk&show_icons=true&theme=default" alt="iamsunilk stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=iamsunilk" alt="iamsunilk streak" height="165" />
+</p>
