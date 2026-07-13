@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil K</h1>
-<h3 align="center">A .NET FullStack Developer | 2x Microsoft Certified | Karat-Cleared Engineer</h3>
+<h3 align="center">A .NET FullStack Developer | 3x Microsoft Certified | Karat-Cleared Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=iamsunilk&label=Profile%20views&color=0e75b6&style=flat" alt="iamsunilk" />
@@ -12,43 +12,13 @@
 </p>
 
 - 🌱 I'm currently learning **Data Structures, Algorithms & Cloud Technologies**
-- 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Credential ID: `6A04DCE52595FA4A`
-- 🏆 **Microsoft Certified: Azure AI Fundamentals (AI-901)** — Credential ID: `6A6285FBE2D87FED`
+- 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Credential ID: `6A04DCE52595FA4A` <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a04dce52595fa4a">Verify Certificate</a>
+- 🏆 **Microsoft Certified: Azure AI Fundamentals (AI-901)** — Credential ID: `6A6285FBE2D87FED`<a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a6285fbe2d87fed">Verify Certificate</a>
+- 🏆 **Microsoft Certified: Azure Data Fundamentals (DP-900)** — Credential ID: `BEB4CC2212E8D296` <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/beb4cc2212e8d296">Verify Certificate</a>
 - 💻 **Karat-Cleared Engineer** — Cleared a third-party technical interview conducted via Karat
 - 📫 How to reach me: **sunilkrishnamoorthy.dev@gmail.com**
 
----
-
-## 🏅 Certifications
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900 Badge" width="120" height="120"/>
-      <br />
-      <b>Microsoft Certified: Azure Fundamentals</b>
-      <br />
-      <sub>AZ-900 | Issued: June 2026</sub>
-      <br />
-      <sub>Credential ID: 6A04DCE52595FA4A</sub>
-      <br />
-      <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a04dce52595fa4a">✅ Verify Certificate</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI-901 Badge" width="120" height="120"/>
-      <br />
-      <b>Microsoft Certified: Azure AI Fundamentals</b>
-      <br />
-      <sub>AI-901 | Issued: July 2026</sub>
-      <br />
-      <sub>Credential ID: 6A6285FBE2D87FED</sub>
-      <br />
-      <a href="https://learn.microsoft.com/en-us/users/iamsunilk/credentials/6a6285fbe2d87fed">✅ Verify Certificate</a>
-    </td>
-  </tr>
-</table>
-
----
+-----
 
 ### 🌐 Connect with me
 
